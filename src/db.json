@@ -1,0 +1,39 @@
+{
+  "Booking": [
+    {
+      "id": 42,
+      "hotel_name": "Snow Bliss",
+      "name": "Ghatol",
+      "phone": "7757872754",
+      "count": ""
+    },
+    {
+      "id": 444,
+      "hotel_name": "Hometel Chandigarh",
+      "name": "Ghatol",
+      "phone": "7757872754",
+      "count": "3"
+    },
+    {
+      "id": 225,
+      "hotel_name": "DoubleTree by Hilton",
+      "name": "Akash Ghatol",
+      "phone": "98818181",
+      "count": "3"
+    },
+    {
+      "id": 605,
+      "hotel_name": "Hotel Sapphire",
+      "name": "Prasad CHaitenya",
+      "phone": "7757872754",
+      "count": "4"
+    },
+    {
+      "id": 455,
+      "hotel_name": "JW Marriott Chandigarh",
+      "name": "Akash Ghatol",
+      "phone": "87654345678765",
+      "count": ""
+    }
+  ]
+}
